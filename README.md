@@ -13,8 +13,8 @@ My journey in Cybersecurity has just really started being taken into full effect
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Digital Forensics Reporting (Precious Image)        | <a href="file:///C:/Users/SFU/Downloads/PreciousAnalysisReportCopy.docx.pdf">Precious Analysis Report</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Digital Forensics Reporting (Precious Image)        | <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main/README.md">Precious Analysis Report</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Mantooth Analysis Report</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -37,5 +37,5 @@ My journey in Cybersecurity has just really started being taken into full effect
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main/README.md">Precious Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Mantooth Analysis Report</a>
