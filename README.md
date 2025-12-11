@@ -23,16 +23,22 @@ My journey in Cybersecurity has just really started being taken into full effect
 ### Forensic Investigation Tools
 <div>
     <img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Registry%20Viewer-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
    <img src="https://img.shields.io/badge/-FTK%20Imager-0A5A9C?&style=for-the-badge&logo=search&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-</div>
+
+
+|Tool                                    | Used For         |
+|-----------------------------------------------|----------------------------|
+|  Forensic Toolkit (FTK) Imager    | Used to make a bit-by-bit copy of the hard drive being examined |
+| Autopsy | Used to search through the bit-by-bit copy of the hard drive in order to find evidence within the drive |
+| Windows Registry Explorer      | Used to look through multiple different hives found within the image|
+| PrefetchWindows Event Viewer     | Used to look through the event log found in the image. Used to search for the last use of the drive|
+| PicPick (Screenshot Tool) | Used to document the evidence found within the screenshots taken |
+
 
 ## Projects
 - <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main/README.md">Precious Analysis Report</a>
