@@ -14,11 +14,9 @@ My journey in Cybersecurity has just really started being taken into full effect
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Digital Forensics Reporting (Precious Image)        | <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main/README.md">Precious Analysis Report</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Mantooth Analysis Report</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Digital Forensics Reporting (Mantooth Image) | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Mantooth Analysis Report</a>|
+| Digital Forensics Reporting (Washer Image)        | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Washer Analysis Report</a>|
+| Digital Forensics Reporting (Clampet Image)     | <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main/README.md">Clampet Analysis Report</a>|
 
 ## Tools (Below)
 
@@ -39,3 +37,5 @@ My journey in Cybersecurity has just really started being taken into full effect
 ## Projects
 - <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main/README.md">Precious Analysis Report</a>
 - <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Mantooth Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Washer Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main/README.md">Clampet Analysis Report</a>
