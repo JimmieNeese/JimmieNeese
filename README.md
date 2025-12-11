@@ -13,10 +13,10 @@ My journey in Cybersecurity has just really started being taken into full effect
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Digital Forensics Reporting (Precious Image)        | <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main/README.md">Precious Analysis Report</a>|
-| Digital Forensics Reporting (Mantooth Image) | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Mantooth Analysis Report</a>|
-| Digital Forensics Reporting (Washer Image)        | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Washer Analysis Report</a>|
-| Digital Forensics Reporting (Clampet Image)     | <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main/README.md">Clampet Analysis Report</a>|
+| Digital Forensics Reporting (Precious Image)        | <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main">Precious Analysis Report</a>|
+| Digital Forensics Reporting (Mantooth Image) | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main">Mantooth Analysis Report</a>|
+| Digital Forensics Reporting (Washer Image)        | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main">Washer Analysis Report</a>|
+| Digital Forensics Reporting (Clampet Image)     | <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main">Clampet Analysis Report</a>|
 
 ## Tools (Below)
 
@@ -41,7 +41,7 @@ My journey in Cybersecurity has just really started being taken into full effect
 
 
 ## Projects
-- <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main/README.md">Precious Analysis Report</a>
-- <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Mantooth Analysis Report</a>
-- <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main/README.md">Washer Analysis Report</a>
-- <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main/README.md">Clampet Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main">Precious Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main">Mantooth Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main">Washer Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main">Clampet Analysis Report</a>
