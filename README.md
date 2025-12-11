@@ -1,5 +1,5 @@
 # Hello, I'm James (Jimmie) Neese
-<a href="www.linkedin.com/in/james-neese-48a52b323"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/james-neese-48a52b323/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am currently a student at Saint Francis University. I am a sophomore pursuing a Bachelors' Degree in Cybersecurity, and also a Masters' in Business Administration. I am from Punxsutawney, Pennsylvania.
