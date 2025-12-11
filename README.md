@@ -15,7 +15,7 @@ My journey in Cybersecurity has just really started being taken into full effect
 |-----------------------------------------------|----------------------------|
 | Digital Forensics Reporting (Precious Image)        | <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main">Precious Analysis Report</a>|
 | Digital Forensics Reporting (Mantooth Image) | <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main">Mantooth Analysis Report</a>|
-| Digital Forensics Reporting (Washer Image)        | <a href="https://github.com/JimmieNeese/Washer-Analysis-Report/blob/main">Washer Analysis Report</a>|
+| Digital Forensics Reporting (Washer Image)        | <a href="https://github.com/JimmieNeese/Washer-Report-Analysis/blob/main">Washer Analysis Report</a>|
 | Digital Forensics Reporting (Clampet Image)     | <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main">Clampet Analysis Report</a>|
 
 ## Tools (Below)
@@ -43,5 +43,5 @@ My journey in Cybersecurity has just really started being taken into full effect
 ## Projects
 - <a href="https://github.com/JimmieNeese/Precious-Analysis-Report/blob/main">Precious Analysis Report</a>
 - <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main">Mantooth Analysis Report</a>
-- <a href="https://github.com/JimmieNeese/Mantooth-Analysis-Report/blob/main">Washer Analysis Report</a>
+- <a href="https://github.com/JimmieNeese/Washer-Report-Analysis/blob/main">Washer Analysis Report</a>
 - <a href="https://github.com/JimmieNeese/Clampet-Image-Analysis/blob/main">Clampet Analysis Report</a>
