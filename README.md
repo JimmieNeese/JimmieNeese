@@ -9,7 +9,7 @@ I am currently a student at Saint Francis University. I am a sophomore pursuing 
 My journey in Cybersecurity has just really started being taken into full effect since I started college. This being said, I chose to pursue a degree in cybersecurity for many reasons. Ever since I was a young kid I always had a passion for computer and all the new technology that has come out over the years. I always would get new technology and would always try to test it to the best of its abilities. This really led me into thinking that Cybersecurity was the path for me.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
